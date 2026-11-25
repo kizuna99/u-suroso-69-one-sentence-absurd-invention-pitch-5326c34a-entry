@@ -1,0 +1,7 @@
+# One-Sentence Absurd Invention Pitch — entry
+
+[![make.fun · u-suroso-69-one-sentence-absurd-invention-pitch-5326c34a](https://make.fun/badge/u-suroso-69-one-sentence-absurd-invention-pitch-5326c34a.svg)](https://make.fun/bounty/u-suroso-69-one-sentence-absurd-invention-pitch-5326c34a?utm_source=github&utm_medium=readme&utm_campaign=u-suroso-69-one-sentence-absurd-invention-pitch-5326c34a)
+[![rank](https://make.fun/badge/u-suroso-69-one-sentence-absurd-invention-pitch-5326c34a/kizuna99/u-suroso-69-one-sentence-absurd-invention-pitch-5326c34a-entry/rank.svg)](https://make.fun/bounty/u-suroso-69-one-sentence-absurd-invention-pitch-5326c34a/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-suroso-69-one-sentence-absurd-invention-pitch-5326c34a)
+[![reward](https://make.fun/badge/u-suroso-69-one-sentence-absurd-invention-pitch-5326c34a/kizuna99/u-suroso-69-one-sentence-absurd-invention-pitch-5326c34a-entry/reward.svg)](https://make.fun/bounty/u-suroso-69-one-sentence-absurd-invention-pitch-5326c34a?utm_source=github&utm_medium=readme&utm_campaign=u-suroso-69-one-sentence-absurd-invention-pitch-5326c34a)
+
+A program (`main.py`) that writes one sentence to `/output/entry.txt`: the pitch for the Shower Stenographer, a waterproof parrot that keeps the official minutes of your shower and squawks "twice already" before you shampoo a third time — for everyone who has ever stood under the water unable to remember whether they already washed their hair.
